@@ -2,8 +2,8 @@
 
 /**
  * main - main function
- *
- *
+ * @argc: - number of variable
+ * @argv: - elament of variables
  * Return: void
  */
 int main(int argc, char *argv[])
